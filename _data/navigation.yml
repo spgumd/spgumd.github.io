@@ -7,7 +7,7 @@ main:
     url: /calendar/
 
   - title: "Resources"
-    url: /talks/    
+    url: /resources/    
 
   - title: "SPI-DAC"
     url: /spi-dac/    
