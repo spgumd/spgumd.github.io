@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-Local nonprofits that provide critical services to our community will face unprecedented demands in coming months to provide food, housing, and health security for thousands of area residents. <strong> They anticipate requiring more than a million dollars in additional funding to meet this need <strong>. 
+Local nonprofits that provide critical services to our community will face unprecedented demands in coming months to provide food, housing, and health security for thousands of area residents. They anticipate requiring more than a million dollars in additional funding to meet this need. 
 
 The Science Policy Initiative at UVA is pleased to announce the launch of the Scientists at UVA COVID-19 Community Fund, an effort to demonstrate our commitment to step up and help local residents as a community at UVA.
  
