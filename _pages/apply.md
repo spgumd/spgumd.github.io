@@ -1,21 +1,19 @@
 ---
 header:
-  image: test2.jpg
+  image: 
 layout: archive
-title: "Applying to our lab"
-permalink: /apply/
+title: "Donate to Scientists at UVA Covid-19 Community Relief Fundraiser"
+permalink: /donate/
 author_profile: true
 ---
 
 
-## Computational Post-Doctoral Researchers
-Applications are invited for a computational postdoctoral research position in my lab at Human Genomes Sequencing Center at Baylor College of Medicine (Houston, Texas). The researcher will develop novel methods for large scale DNA-seq, RNA-Seq and other omics data related to human, but also other organisms. Potential projects include SVs detection, SVs impact estimation and population scale research.
 
-<ins>Ideal applicant will have:</ins>
-
-* A Ph.D. degree in Computer Science, Applied Mathematics, or related fields with a dissertation related to Computational Biology.
-* Strong programming and analytical skills, including experience with next-generation sequencing data.
-* Published at least two first author papers in English and demonstrated written communication skills in English.
-
-<strong> To apply, please email me a letter of interest and current CV at fritz.sedlazeck @ bcm.edu <strong>
+Local nonprofits that provide critical services to our community will face unprecedented demands in coming months to provide food, housing, and health security for thousands of area residents. <strong> They anticipate requiring more than a million dollars in additional funding to meet this need. <strong>
+The Science Policy Initiative at UVA is pleased to announce the launch of the <strong> Scientists at UVA COVID-19 Community Fund <strong>, an effort to demonstrate our commitment to step up and help local residents as a community at UVA.
+All donations go directly to a central fund to benefit United Way of Charlottesville.
+Over the coming months, we will continue to raise awareness about the heroic efforts of these nonprofits to ensure that every Charlottesville resident has access to basic needs during the pandemic.
+Starting today, our funding goal is <strong> $10,000 <strong> ! 
+Progress
+Donate
 
