@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "About"
+permalink: /about/
 author_profile: true
 header:
   image: SPILogo_med.png
