@@ -1,37 +1,37 @@
 ---
 header:
-  image: test2.jpg
+  image: SPILogo_med.png
 permalink: /
-excerpt: "Fritz Sedlazeck main homepage."
+excerpt: "SPI main homepage."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My research focuses on the development of scalable algorithms to assess the variability in genomes in terms of single nucleotide polymorphisms (SNP) as well as structural variations (SVs) within and among populations. I have a strong background in computer science, especially in leveraging high throughput architectures ranging from highly parallel graphics cards, over clusters, or cloud architectures. My training in genomics started in 2008, when I started my PhD in computational biology where I designed algorithms to investigate genomic variability of model and non-model organisms through the alignment of short reads. During my PhD and following my entire career I was always intrigued to investigate genomic variability being it in across tissues as well as within populations or across populations. This drove my training and the fascination how variable genomes are and investigating the impact of such variability. To assess these, I collaborated and initiated efforts to determine which technologies or methodologies were most appropriate to discover variations of different forms as well as the biases that they contain. This work just recently leads to novel insights in structural variations and their genotypic and phenotypic impact. In 2014 I joined the lab of Michael Schatz at Cold Spring Harbor Laboratory and later at Johns Hopkins University to broaden my knowledge about de novo assemblies and their possibilities to assess variability. Over these two years I obtained insights into novel technologies (long reads and linked reads), which often allow a more precise detection of genomic variability and its assessment with respect to the individual haplotypes.
-
-Over my young career as a scientist I followed a clear path to investigate genomic variability starting with SNPs and focusing over the last 5 years on structural variations. I have successfully co supervised 5 students, initiated successful international collaborations as well as lead three projects resulting in last author publications.
-
-# Recruiting
-If you want to join a young but aspiring lab please check out [Apply](apply/){: .btn .btn--success}.   
-I welcome applications for a Computational Biology PostDoc, who is motivated and interested in the dynamics of genomes to improve our understanding of SVs. We benefit from a thrilling environment here at the Human Genome Sequencing Center at Baylor College of Medicine.
+We are a student organization empowering graduate students and post-docs to be more informed and involved in science policy. Our organization seeks to (1) enhance awareness among graduate students in engineering and science disciplines about fellowship and career opportunities in science policy; (2) provide support and resources for graduate students and post-docs pursuing opportunities in science policy; (3) conduct professional development events to prepare graduate students for careers in science policy; (4) facilitate community outreach and advocacy opportunities to increase understanding of scientific research among the community and support evidence-based policies. 
 
 
-# Recent News
+## Current Officers
+ * Co-Presidents – [Sarah Goggin](sg4dm@virginia.edu) & [Linnea Saby](ls3en@virginia.edu)
+ * Treasurer – Anupam Prakash
+ * Communications – Ieva Juska
+ * Professional Development – Robert Dyer
+ * Outreach and Advocacy Co-Chairs – Sean Cuddy  and Grace Bingham
+ * Policy Education Chair – Lucas Freeman
+ * National Coordinators – Chair Tara Illgner, Vice Chair Courtney Rogers
 
-+ Published: [Complex rearrangements and oncogene amplifications revealed by long-read DNA and RNA sequencing of a breast cancer cell line](https://genome.cshlp.org/content/early/2018/06/28/gr.231100.117.abstract)
-
-+ SMRT Grant: [We and Arne Noltes group won the GENEWIZ and PacBio plant and animal SMRT grant to sequence the first European cave fish.](https://t.co/nnHVZjdYhH)
-
-+ Preprint:  [SVCollector: Optimized sample selection for validating and long-read resequencing of structural variants](https://www.biorxiv.org/content/early/2018/06/08/342386)
-
-+ Preprint:  [Clairvoyante: a multi-task convolutional deep neural network for variant calling in Single Molecule Sequencing](https://www.biorxiv.org/content/early/2018/04/28/310458)
-
-+ Preprint:  [xAtlas: Scalable small variant calling across heterogeneous next-generation sequencing experiments](https://www.biorxiv.org/content/early/2018/04/05/295071)
-
-+ Published: [Accurate detection of complex structural variations using single-molecule sequencing](https://www.nature.com/articles/s41592-018-0001-7)
+# Selected Software Packages
 
 
+### 1. Donate to our Scientists at UVA Covid-19 Community Relief Fundraiser
+Local nonprofits that provide critical services to our community will face unprecedented demands in coming months to provide food, housing, and health security for thousands of area residents. They anticipate requiring more than a million dollars in additional funding to meet this need.
+  
+The Science Policy Initiative at UVA is pleased to announce the launch of the Scientists at UVA COVID-19 Community Fund, an effort to demonstrate our commitment to step up and help local residents as a community at UVA.
+All donations go directly to a central fund to benefit [United Way of Charlottesville](https://www.unitedway.org/local/united-states/virginia/united-way-thomas-jefferson-area)
+
+Over the coming months, we will continue to raise awareness about the heroic efforts of this and other nonprofits to ensure that every Charlottesville resident has access to basic needs during the pandemic.
+Starting today, our funding goal is $10,000! Donate, track our progress here on our ['Donate' page](donate/){: .btn .btn--success}, or reach out via any of our emails or social media to learn more about partnering with us! 
 
 
+{% include base_path %}
