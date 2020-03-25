@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 author_profile: true
 header:
-  image: SPILogo_med.png
+  image: UVA_background_large.jpg
 ---
 
 
@@ -27,7 +27,7 @@ The Science Policy Initiative at UVA is pleased to announce the launch of the Sc
 All donations go directly to a central fund to benefit [United Way of Charlottesville](https://www.unitedway.org/local/united-states/virginia/united-way-thomas-jefferson-area)
 
 Over the coming months, we will continue to raise awareness about the heroic efforts of this and other nonprofits to ensure that every Charlottesville resident has access to basic needs during the pandemic.
-Starting today, our funding goal is $10,000! Donate, track our progress on our ['Donate' page](donate/){: .btn .btn--success}, or reach out via any of our emails or social media to learn more about partnering with us! 
+Starting today, our funding goal is $10,000! Donate, track our progress on our [Donate page](donate/){: .btn .btn--success}, or reach out via any of our emails or social media to learn more about partnering with us! 
 
 
 {% include base_path %}
