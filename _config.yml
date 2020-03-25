@@ -14,7 +14,7 @@ description              : &description "The Science Policy Initiative at UVA is
 url                      : https://spiatuva.github.io #ase hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SPIatUVA/spiatuva.github.io"
-teaser                   : background1.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : SPILogo_med.png # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
