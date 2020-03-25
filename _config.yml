@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fritz J. Sedlazeck"
+title                    : "Science Policy Initiative at UVA
 title_separator          : "-"
-name                     : &name "Fritz Sedlazeck"
-description              : &description "Assistant Professor at the Human Genome Sequencing Center at Baylor College of Medicine"
-url                      : https://fritzsedlazeck.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "SPI at UVA
+description              : &description "The Science Policy Initiative at UVA is a student organization empowering scientists and engineers to be more informed and involved in science policy"
+url                      : https://spiatuva.github.io #ase hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fritzsedlazeck/fritzsedlazeck.github.io"
+repository               : "SPIatUVA/spiatuva.github.io"
 teaser                   : background1.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : sedlazeck
+  username               :SPIatUVA
 facebook:
-  username               :
+  username               :spiatuva
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -78,33 +78,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fritz J Sedlazeck"
+  name             : "SPI at UVA"
   avatar           : Fritz.JPG
-  bio              : "Assistant Professor at the Human Genome Sequencing Center at Baylor College of Medicine."
-  location         : "1 Baylor Plaza, Houston, TX 77030"
-  employer         : "Human Genome Sequencing Center "
-  googlescholar    : "https://scholar.google.com/citations?user=KNZTJ40AAAAJ&hl=en"
-  email            : "fritz.sedlazeck@bcm.edu"
+  bio              : "The Science Policy Initiative at UVA is a student organization empowering scientists and engineers to be more informed and involved in science policy"
+  location         : #1 Baylor Plaza, Houston, TX 77030"
+  employer         : "University of Virginia"
+  googlescholar    : #https://scholar.google.com/citations?user=KNZTJ40AAAAJ&hl=en"
+  email            : "spiatuva@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "spiatuva"
   foursquare       :
-  github           : "fritzsedlazeck"
+  github           : #fritzsedlazeck"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "fritz-sedlazeck-1b879370"
-  orcid            : "http://orcid.org/0000-0001-6040-2691"
+  linkedin         : #fritz-sedlazeck-1b879370"
+  orcid            : #http://orcid.org/0000-0001-6040-2691"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "sedlazeck"
+  twitter          : "SPIatUVA"
   vine             :
   weibo            :
   xing             :
