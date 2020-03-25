@@ -9,7 +9,8 @@ author_profile: true
 
 
 
-Local nonprofits that provide critical services to our community will face unprecedented demands in coming months to provide food, housing, and health security for thousands of area residents. <strong> They anticipate requiring more than a million dollars in additional funding to meet this need. <strong>
+Local nonprofits that provide critical services to our community will face unprecedented demands in coming months to provide food, housing, and health security for thousands of area residents. <strong> They anticipate requiring more than a million dollars in additional funding to meet this need<strong>. 
+
 The Science Policy Initiative at UVA is pleased to announce the launch of the <strong> Scientists at UVA COVID-19 Community Fund <strong>, an effort to demonstrate our commitment to step up and help local residents as a community at UVA.
 All donations go directly to a central fund to benefit United Way of Charlottesville.
 Over the coming months, we will continue to raise awareness about the heroic efforts of these nonprofits to ensure that every Charlottesville resident has access to basic needs during the pandemic.
