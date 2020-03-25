@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : #"en-US"
-title                    : "Science Policy Initiative at UVA
+title                    : "Science Policy Initiative at UVA"
 title_separator          : "-"
 name                     : &name "SPI at UVA"
 description              : &description "The Science Policy Initiative at UVA is a student organization empowering scientists and engineers to be more informed and involved in science policy"
