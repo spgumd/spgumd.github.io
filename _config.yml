@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :SPIatUVA
+  username               : SPIatUVA
 facebook:
-  username               :spiatuva
+  username               : spiatuva
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
