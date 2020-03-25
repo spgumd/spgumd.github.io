@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/
+  - title: "About"
+    url: /about/
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Calendar"
+    url: /calendar/
 
-  - title: "Talks"
+  - title: "Resources"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "SPI-DAC"
+    url: /spi-dac/    
   
   ##- title: "People"
   ##  url: /people/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Journal Club"
+    url: /journal-club/
 
-  - title: "Apply"
-    url: /apply/
+  - title: "Donate"
+    url: /donate/
