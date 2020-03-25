@@ -21,10 +21,8 @@ We are a student organization empowering graduate students and post-docs to be m
  * Policy Education Chair – Lucas Freeman
  * National Coordinators – Chair Tara Illgner, Vice Chair Courtney Rogers
 
-# Selected Software Packages
 
-
-### 1. Donate to our Scientists at UVA Covid-19 Community Relief Fundraiser
+## Donate to our Scientists at UVA Covid-19 Community Relief Fundraiser
 Local nonprofits that provide critical services to our community will face unprecedented demands in coming months to provide food, housing, and health security for thousands of area residents. They anticipate requiring more than a million dollars in additional funding to meet this need.
   
 The Science Policy Initiative at UVA is pleased to announce the launch of the Scientists at UVA COVID-19 Community Fund, an effort to demonstrate our commitment to step up and help local residents as a community at UVA.
