@@ -198,7 +198,7 @@ defaults:
       comments: true
       share: true
       related: true
-      header.image: test2.png
+      header.image: SPILogo_med.png
   # _pages
   - scope:
       path: ""
