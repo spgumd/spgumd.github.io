@@ -24,10 +24,10 @@ Starting today, our funding goal is **$10,000**!
 
 [Donate](https://app.mobilecause.com/form/Hn0mYg?vid=6cxd0){: .btn .btn--success}
 
-**Post about it on social media with #UVAScientistsFund and #CvilleEmergencyFund!**
+Post about it on social media with #UVAScientistsFund!
 
 **Track our progress (updated weekly):**
-0$ raised so far
+$0 raised so far
 
 Also, we are seeking **partnership with other organizations at UVA**! Reach out via email or social media if your organization wants to help by promoting and/or donating to this cause.
 
