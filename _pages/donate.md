@@ -31,6 +31,6 @@ $0 raised so far
 
 Also, we are seeking **partnership with other organizations at UVA**! Reach out via email or social media if your organization wants to help by promoting and/or donating to this cause.
 
-If you need help as a result of the pandemic, access resources here: [https://www.supportcville.com/]. 
+If you need help as a result of the pandemic, access resources here: [https://www.supportcville.com/](https://www.supportcville.com/). 
 
 
