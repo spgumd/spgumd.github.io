@@ -37,5 +37,3 @@ Also, we are seeking **partnership with other organizations at UVA**! Reach out 
 
 If you need help as a result of the pandemic, access resources here: [https://www.supportcville.com/]. 
 
-
-{% include base_path %}
