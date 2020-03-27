@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "About"
-permalink: /about/
+title: "Test"
+permalink: /test/
 author_profile: true
 header:
   image: UVA_background_large.jpg
