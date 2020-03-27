@@ -34,7 +34,7 @@ Over the coming months, SPI will continue to raise awareness about the heroic ef
 
 Starting today, our funding goal is $10,000! Track our progress and make a (tax deductible) donation through our [Donate page](donate/){: .btn .btn--success}, and post about it on social media with #UVAScientistsFund!
 
-Also, we are seeking partnership with other organizations at UVA! Reach out via email or social media if your organization wants to help by promoting and/or donating to this cause.
+Also, we are seeking **partnership with other organizations at UVA**! Reach out via email or social media if your organization wants to help by promoting and/or donating to this cause.
 
 If you need help as a result of the pandemic, access resources here: [https://www.supportcville.com/]. 
 
