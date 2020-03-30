@@ -27,7 +27,7 @@ Starting today, our funding goal is **$10,000**!
 Post about it on social media with #UVAScientistsFund!
 
 **Track our progress (updated weekly):**
-$0 raised so far
+1st update: April 3rd
 
 Also, we are seeking **partnership with other organizations at UVA**! Reach out via email or social media if your organization wants to help by promoting and/or donating to this cause.
 
