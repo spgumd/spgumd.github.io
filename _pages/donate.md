@@ -24,7 +24,7 @@ Starting today, our funding goal is **$10,000**!
 
 [Donate](https://app.mobilecause.com/form/Hn0mYg?vid=6cxd0){: .btn .btn--success}
 
-Post about it on social media with #UVAScientistsFund!
+Post about it on social media with #ScientistsAtUVAFund!
 
 **Track our progress (updated weekly):**
 1st update: April 3rd
