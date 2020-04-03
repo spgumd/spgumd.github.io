@@ -27,9 +27,12 @@ Starting today, our funding goal is **$10,000**!
 Post about it on social media with #ScientistsAtUVAFund!
 
 **Track our progress (updated weekly):**
+
 Week 1: **$2,716.85**
 
+
 Also, we are seeking **partnership with other organizations at UVA**! Reach out via email or social media if your organization wants to help by promoting and/or donating to this cause.
+
 
 If you need help as a result of the pandemic, access resources here: [https://www.supportcville.com/](https://www.supportcville.com/). 
 
