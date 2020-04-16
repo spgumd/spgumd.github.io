@@ -24,6 +24,10 @@ All donations go directly to the [*Community Emergency Response Fund*](https://w
 ## **Track our progress (updated weekly):**
  
 - Week 1: **$2,716.85**
+
+<link rel="stylesheet" type="text/css" href="loading-bar.css"/>
+<script type="text/javascript" src="loading-bar.js"></script>
+<div class="ldBar"></div>
  
 Goal: **$10,000**!
 
