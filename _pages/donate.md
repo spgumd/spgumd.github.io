@@ -25,7 +25,7 @@ All donations go directly to the [*Community Emergency Response Fund*](https://w
  
 - Week 1: **$2,716.85**
  
-- Goal: **$10,000**!
+Goal: **$10,000**!
 
 ## **How else can you contribute?**
 - Post about it on social media with [*#ScientistsAtUVAFund*](https://twitter.com/hashtag/ScientistsatUVAFund?src=hashtag_click)!
