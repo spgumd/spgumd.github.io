@@ -17,17 +17,17 @@ The Science Policy Initiative at UVA (SPI) has partnered with the [*United Way o
 All donations go directly to the [*Community Emergency Response Fund*](https://www.dailyprogress.com/news/local/cacf-united-way-others-team-up-to-raise-funds-for/article_7108edb8-546f-5651-bbe0-fac1fc7dbed7.html). This is a centralized fund to provide resources to local families with little or no access to emergency funds, now and over the course of this pandemic.
 
  
-#### **Make a (tax deductible) donation by clicking the "Donate" button below!**
+## **Make a (tax deductible) donation by clicking the "Donate" button below!**
  
 [Donate](https://app.mobilecause.com/form/Hn0mYg?vid=6cxd0){: .btn .btn--success}
  
-#### **Track our progress (updated weekly):**
+## **Track our progress (updated weekly):**
  
 - Week 1: **$2,716.85**
  
 - Goal: **$10,000**!
 
-#### **How else can you contribute?**
+## **How else can you contribute?**
 - Post about it on social media with [*#ScientistsAtUVAFund*](https://twitter.com/hashtag/ScientistsatUVAFund?src=hashtag_click)!
 - **Partner with us**! Reach out via [*email*](spi-exec@virginia.edu) or [*social media*](https://twitter.com/SPIatUVA) if your organization wants to help by promoting and/or donating to this cause. 
 
