@@ -23,7 +23,7 @@ All donations go directly to the [*Community Emergency Response Fund*](https://w
  
 ## **Track our progress (updated weekly):**
  
-Current amount raised: **$3,712.99**
+Current amount raised: **$4,203.23**
 
 <link rel="stylesheet" type="text/css" href="loading-bar.css"/>
 <script type="text/javascript" src="loading-bar.js"></script>
