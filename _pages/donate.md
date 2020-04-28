@@ -33,10 +33,10 @@ Goal: **$10,000**!
 
 ## **How else can you contribute?**
 - Post about it on social media with [*#ScientistsAtUVAFund*](https://twitter.com/hashtag/ScientistsatUVAFund?src=hashtag_click)!
-- **Partner with us**! Reach out via [*email*](spi-exec@virginia.edu) or [*social media*](https://twitter.com/SPIatUVA) if your organization wants to help by promoting and/or donating to this cause. 
+- **Partner with us**! Reach out via [*email*](mailto:spi-exec@virginia.edu) or [*social media*](https://twitter.com/SPIatUVA) if your organization wants to help by promoting and/or donating to this cause. 
 
 
-Over the coming months, we will also raise awareness about the heroic efforts of other area nonprofits and efforts working to ensure that every Charlottesville resident has access to basic needs during the pandemic. [*Contact us*](spi-exec@virginia.edu) if you are working on something that you want us to feature!
+Over the coming months, we will also raise awareness about the heroic efforts of other area nonprofits and efforts working to ensure that every Charlottesville resident has access to basic needs during the pandemic. [*Contact us*](mailto:spi-exec@virginia.edu) if you are working on something that you want us to feature!
 
 If you need help as a result of the pandemic, access resources here: [*https://www.supportcville.com/*](https://www.supportcville.com/). 
 
