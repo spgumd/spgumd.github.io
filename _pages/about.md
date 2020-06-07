@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-**The Science Policy Initiative at UVA joins our voices with millions in sorrow and anger at the deaths of George Floyd, Breonna Taylor, Ahmaud Arbery, Tony McDade, David McAtee and thousands of other Black Americans who have died as victims of police brutality.
+**The Science Policy Initiative at UVA joins our voices with millions in sorrow and anger at the deaths of George Floyd, Breonna Taylor, Ahmaud Arbery, Tony McDade, David McAtee and thousands of other Black Americans who have died as victims of police brutality.**
  
 **This can be a watershed moment for racial equity in the U.S., and we encourage our members who are able to pause your regular activities to support this urgent demand for real change in policy and culture. The Science Policy Initiative at UVA (SPI) is planning the following actions to support meaningful change:**
  
