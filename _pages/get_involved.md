@@ -2,8 +2,8 @@
 header:
   image: 
 layout: archive
-title: "Get Involved"
-permalink: /get-involved/
+title: "Local Outreach and Advocacy"
+permalink: /local-outreach-advocacy/
 author_profile: true
 ---
 
