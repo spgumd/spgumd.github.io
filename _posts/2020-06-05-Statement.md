@@ -3,7 +3,7 @@ header:
   image: UVA_background_large.jpg
 title: 'SPI's Statement in Support of Black Lives'
 date: 2020-06-05
-permalink: /posts/statement/
+permalink: /posts/2020/06/statement/
 tags:
   - Diversity, Equity, Inclusion
   - Outreach & Advocacy
