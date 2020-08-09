@@ -5,8 +5,7 @@ title: 'Statement in Support of Black Lives'
 date: 2020-06-05
 permalink: /posts/2020/06/statement/
 tags:
-  - Diversity, Equity, Inclusion
-  - Outreach & Advocacy
+  - Advocacy & Outreach 
   - Announcements
 read_time: false
 exerpt: 'SPI is planning the following actions: Amplify policy change demands made by experienced advocates at the National, State, and local Charlottesville levels; Advocate for meaningful change within UVA; Increase our focus on racial equity policy; Maintain accountability within our communities. Click to read full statement.'
