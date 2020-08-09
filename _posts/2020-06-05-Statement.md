@@ -1,7 +1,7 @@
 ---
 header:
   image: UVA_background_large.jpg
-title: 'SPI's Statement in Support of Black Lives'
+title: 'Statement in Support of Black Lives'
 date: 2020-06-05
 permalink: /posts/2020/06/statement/
 tags:
@@ -9,7 +9,7 @@ tags:
   - Outreach & Advocacy
   - Announcements
 read_time: false
-exerpt: SPI is planning the following actions: Amplify policy change demands made by experienced advocates at the National, State, and local Charlottesville levels; Advocate for meaningful change within UVA; Increase our focus on racial equity policy; Maintain accountability within our communities. Click to read full statement.
+exerpt: 'SPI is planning the following actions: Amplify policy change demands made by experienced advocates at the National, State, and local Charlottesville levels; Advocate for meaningful change within UVA; Increase our focus on racial equity policy; Maintain accountability within our communities. Click to read full statement.'
 ---
 
 The Science Policy Initiative at UVA joins our voices with millions in sorrow and anger at the deaths of George Floyd, Breonna Taylor, Ahmaud Arbery, Tony McDade, David McAtee and thousands of other Black Americans who have died as victims of police brutality.
