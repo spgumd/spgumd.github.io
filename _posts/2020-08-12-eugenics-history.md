@@ -14,6 +14,6 @@ Dr. Preston Reynolds joined us last week to talk about "UVA's History and Legacy
 
 For those who were not able to attend, you can find the reading materials and the recorded lecture (available in the background folder) in a google drive folder by clickign the button below.
 
-Reading Materials and Lecture
+[Reading Materials and Lecture](https://drive.google.com/drive/folders/1KsgCOis7y88b5zcrz75Nz_5E-fWE2Nas){: .btn .btn--success}
 
 Please feel free to watch and share!
