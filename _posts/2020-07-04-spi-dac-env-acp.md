@@ -9,7 +9,7 @@ tags:
   - Advocacy & Outreach
   - SPI DAC
 read_time: false
-excerpt: 'The SPI-DAC environmental group finished our first project in October, 2019!! The final product is titled “Scientific Support for the Regulation of PFAS and 1,4-dioxane,” and was distributed to the offices of the Southern Environmental Law Center throughout the southeast. Take a look at the final product here!'
+excerpt: 'SPI-DAC environmental group's report on endangered species impacted by the Atlantic Coast Pipeline (ACP)'
 ---
 
 SPI-DAC environmental group has been working hard for 5 months to evaluate the impacts of the Atlantic Coast Pipeline (ACP) on endangered species! We submitted our final report to the Fish and Wildlife Service on July 4th, 2020, just before the ACP was cancelled. Thanks to Wild Virginia and the Allegheny-Blue Ridge Alliance for orienting us to this project. Check out our letter here.
