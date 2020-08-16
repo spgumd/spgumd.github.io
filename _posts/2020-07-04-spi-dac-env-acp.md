@@ -9,7 +9,7 @@ tags:
   - Advocacy & Outreach
   - SPI DAC
 read_time: false
-excerpt: 'SPI-DAC environmental group's report on endangered species impacted by the Atlantic Coast Pipeline (ACP).'
+excerpt: 'Check out the report from our SPI-DAC environmental group on endangered species impacted by the Atlantic Coast Pipeline (ACP).'
 ---
 
 SPI-DAC environmental group has been working hard for 5 months to evaluate the impacts of the Atlantic Coast Pipeline (ACP) on endangered species! We submitted our final report to the Fish and Wildlife Service on July 4th, 2020, just before the ACP was cancelled. Thanks to Wild Virginia and the Allegheny-Blue Ridge Alliance for orienting us to this project. Check out our letter here.
