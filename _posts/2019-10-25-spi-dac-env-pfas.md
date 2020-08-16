@@ -14,7 +14,7 @@ excerpt: 'The SPI-DAC environmental group finished our first project in October,
 
 The SPI-DAC environmental group finished our first project in October, 2019!! The final product is titled “Scientific Support for the Regulation of PFAS and 1,4-dioxane,” and was distributed to the offices of the Southern Environmental Law Center throughout the southeast. Take a look at the final product here!
 
-<a href="{{ site.baseurl }}/files/SPI-DAC_EC_review_01-2020.pdf" target="_blank">View PDF</a>
+<a href="{{ site.url }}/files/SPI-DAC_EC_review_01-2020.pdf" target="_blank">View PDF</a>
 
 
 
