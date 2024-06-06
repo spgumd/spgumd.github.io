@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : #"en-US"
-title                    : "Science Policy Initiative at UVA"
+title                    : "Science Policy Group at UMD"
 title_separator          : "-"
-name                     : &name "SPI at UVA"
-description              : &description "The Science Policy Initiative at UVA is a student organization empowering scientists and engineers to be more informed and involved in science policy"
+name                     : &name "SPG-UMD"
+description              : &description "The Science Policy Initiative at UMD is a student organization empowering scientists and engineers to be more informed and involved in science policy"
 url                      : https://spiatuva.github.io #ase hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "SPIatUVA/spiatuva.github.io"
+repository               : "spgumd/spgumd.github.io"
 teaser                   : SPILogo_med.png # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -71,20 +71,18 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google"
-  google:
-    tracking_id          :  UA-104333405-1
+  provider               :  ""
 
 
 # Site Author
 author:
-  name             : "SPI at UVA"
+  name             : "Zihan Chen"
   avatar           : SPI_LOGO_abbreve.png
-  bio              : "The Science Policy Initiative at UVA is a student organization empowering scientists and engineers to be more informed and involved in science policy"
+  bio              : "The Science Policy Initiative at UMD is a student organization empowering scientists and engineers to be more informed and involved in science policy"
   location         : #1 Baylor Plaza, Houston, TX 77030"
-  employer         : "University of Virginia"
+  employer         : "University of Maryland"
   googlescholar    : #https://scholar.google.com/citations?user=KNZTJ40AAAAJ&hl=en"
-  email            : "spiatuva@gmail.com"
+  email            : "scipol@umd.edu"
   uri              :
   bitbucket        :
   codepen          :
