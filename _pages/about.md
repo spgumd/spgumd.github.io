@@ -1,6 +1,6 @@
 ---
 header:
-  image: UVA_background_large.jpg
+  image: umd_background.jpg
 permalink: /
 excerpt: "SPI main homepage."
 author_profile: true
