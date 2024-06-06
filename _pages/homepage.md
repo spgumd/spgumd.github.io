@@ -4,7 +4,7 @@ title: "Test"
 permalink: /test/
 author_profile: true
 header:
-  image: UVA_background_large.jpg
+  image: umd_background.jpg
 ---
 
 
