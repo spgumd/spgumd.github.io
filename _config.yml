@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : SPIatUVA
+  username               : GSPatUMD
 facebook:
-  username               : spiatuva
+  username               : GSPatUMD
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -76,7 +76,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zihan Chen"
+  name             : "SPG UMD"
   avatar           : SPI_LOGO_abbreve.png
   bio              : "The Science Policy Initiative at UMD is a student organization empowering scientists and engineers to be more informed and involved in science policy"
   location         : #1 Baylor Plaza, Houston, TX 77030"
@@ -88,7 +88,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "spiatuva"
+  facebook         : "gspatumd"
   foursquare       :
   github           : #fritzsedlazeck"
   google_plus      :
@@ -102,7 +102,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "SPIatUVA"
+  twitter          : "GSPatUMD"
   vine             :
   weibo            :
   xing             :
