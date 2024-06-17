@@ -13,13 +13,14 @@ We are a student organization empowering graduate students and post-docs to be m
 
 
 ## Current Officers
- * Co-Presidents – [Sarah Goggin](sg4dm@virginia.edu) & [Linnea Saby](ls3en@virginia.edu)
- * Treasurer – Anupam Prakash
- * Communications – Ieva Juska
- * Professional Development – Robert Dyer
- * Outreach and Advocacy Co-Chairs – Sean Cuddy  and Grace Bingham
- * Policy Education Chair – Lucas Freeman
- * National Coordinators – Chair Tara Illgner, Vice Chair Courtney Rogers
+ * Co-Presidents – [Zihan Chen](zchen43@umd.edu)
+ * Treasurer – Sheila Baber
+ * Faculty Supervisor – Xinyue Li
+ * Communications – TBD
+ * Professional Development – TBD
+ * Outreach and Advocacy Co-Chairs – TBD
+ * Policy Education Chair – TBD
+ * National Coordinators – TBD
 
 
 
