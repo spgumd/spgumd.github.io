@@ -8,6 +8,6 @@ calendar: true
 ---
 
 <div class="span9">
-	<h3>Calendar of Upcoming Events (To be updated with a public calendar)</h3>
-	<iframe src="https://calendar.google.com/calendar/embed?src=spiatuva%40gmail.com&ctz=America%2FNew_York" style=" border-width:0 " width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+	<h3>Calendar of Upcoming Events </h3>
+	<iframe src="https://calendar.google.com/calendar/embed?src=c_fef87c097f7ca260ecda3d84ea2fe1004f4bd1cf7d5c67881c73d94cacb7b8d6%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div><!--/span-->
