@@ -8,15 +8,3 @@ main:
 
   - title: "Resources"
     url: /resources/    
-
-  - title: "SPI-DAC"
-    url: /spi-dac/    
-  
-  ##- title: "People"
-  ##  url: /people/
-
-  - title: "Journal Club"
-    url: /journal-club/
-
-  - title: "Blog"
-    url: /year-archive/
